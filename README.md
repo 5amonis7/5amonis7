@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @5amonis7
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in frontend development, backend development and having fun programming
 - 🌱 I’m currently learning HTML, CSS, JS, Node.js, Python
-- 💞️ I’m looking to collaborate on frontend development and learn new things
+- 💞️ I’m looking to collaborate on web development and learn new programming languages and new technologies 
 - 📫 How to reach me, at andrewwmonis@gmail.com
 
 <!---
